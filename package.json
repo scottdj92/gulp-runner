@@ -1,0 +1,26 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "a quick gulp test runner for all my dev needs",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Scott Jones",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scottdj92/gulp-runner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottdj92/gulp-runner/issues"
+  },
+  "homepage": "https://github.com/scottdj92/gulp-runner#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "sass": "^0.5.0"
+  }
+}
